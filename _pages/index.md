@@ -14,7 +14,7 @@ I interned at Xerox Research Center India in summer 2016 and Flipkart Data Scien
 
 My interests lie in Machine Learning, Language Understanding, Speech, Social Media Analysis etc.
 
-Outside of work, I like watching movies and TV shows to unwind. Once upon a time, as a chind and a teenager, I used to read a lot of fiction, but I have gone out of the habit unfortunately. I have trying to pick it up again. You can have a look at [what I have been reading] (https://www.goodreads.com/review/list/48941817-satarupa-guha?shelf=read).
+Outside of work, I like watching movies and TV shows to unwind. Once upon a time, as a chind and a teenager, I used to read a lot of fiction, but I have gone out of the habit unfortunately. I have trying to pick it up again. You can have a look at [what I have been reading](https://www.goodreads.com/review/list/48941817-satarupa-guha?shelf=read).
 
 
 I used to maintain a [personal blog](https://afistfuloflife.wordpress.com) where I penned down some of my random thoughts.
